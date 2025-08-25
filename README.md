@@ -3,3 +3,4 @@
 - Cara agar tidak malas ngoding
 - Cara Scroll Fesnuk
 - Cara agar fokus
+- Cara pull Request
